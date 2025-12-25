@@ -17,7 +17,7 @@ To write a Python program using Pandas to **join two DataFrames along rows** (ro
 ---
 
 ## 💻 Program
-```
+
 <img width="795" height="467" alt="image" src="https://github.com/user-attachments/assets/a0f46885-735b-402f-abb7-921e274a392b" />
 
 ```
